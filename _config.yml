@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Jackie Kiszka"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jackie Kiszka"
+description              : &description "Personal portfolio"
 url                      : https://jackiekiz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jackiekiz/jackiekiz.github.io"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "jackiekiszka600x400_2.jpg"
   name             : "Jackie Kiszka"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "PhD Student in Meteorology & Physical Oceanography at the University of Miami Rosenstiel School"
   location         : "Miami, FL"
   employer         : "University of Miami"
@@ -234,17 +234,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
