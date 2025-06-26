@@ -5,12 +5,52 @@ author_profile: true
 
 ---
 
-I am a first-year PhD Student in Meteorology and Physical Oceanography at the University of Miami Rosenstiel School of Marine, Atmospheric, and Earth Science. I am advised by Dr. Amy Clement and my graduate research focuses on the evolving role of the ocean and atmosphere on global climate variability in climate models. 
 
-I grew up in a tiny town in northern Maine where extreme winters became my norm, then moved to central Pennsylvania and was shocked to get days off of school for an inch or two of snow. At a young age, I became interested in weather and climate and how people interact with them. Though I've shifted away from my original my goal of going into broadcast, I did follow through on the plan I made in fourth grade to become a meteorologist.
+## Presentations:
 
-I graduated from the Pennsylvania State University in Spring 2025, where I received a B.S. with Honors in Meteorology and Atmospheric Science, along with minors in Marine Science and Geography, and an undergraduate certificate in Geographic Information Science (GIS). I also spent a semester abroad at the University of Southampton and the National Oceanographic Centre (NOCS) studying physical oceanography in England.
+American Meteorological Society Annual Meeting, El Niño-Southern Oscillation: Dynamics, Prediction and Projection II Oral Session. ***Talk: Investigating the Impact of Climate Variability and Change on the California Current System Using a Pacific Pacemaker Experiment.*** New Orleans, LA, Jan. 2025. \
+[<a href="https://ams.confex.com/ams/105ANNUAL/meetingapp.cgi/Paper/457792" target="_blank">Abstract</a>] 
+[<a href="https://jackiekiz.github.io/files/pm_ams_slides.pdf" target="_blank">Slides</a>]
 
-I had a variety of research experiences as an undergraduate, including Chesapeake Bay biogeochemistry and carbon capture implementation in the Penn State Meteorology Department, an NSF REU focusing on the carbon and energy budgets of a forest using eddy covariance, and an internship with the NOAA Physical Sciences Laboratory through the NOAA Ernest F. Hollings Program where I studied the impact of ENSO on the California Current System.
 
-In my free time, I can be found hiking, painting, traveling, reading, and enjoying live music.
+American Geophysical Union Fall Meeting, El Niño-Southern Oscillation and Pantropical Climate Interactions: Mechanisms, Predictability, Impacts, and Projections I Oral Session. ***Talk: Investigating the Impact of Climate Variability and Change on the California Current System Using a Pacific Pacemaker Experiment.*** Washington, D.C., Dec. 2024. \
+[<a href="https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1721220" target="_blank">Abstract</a>]
+[<a href="https://jackiekiz.github.io/files/pm_agu_slides.pdf" target="_blank">Slides</a>]
+
+
+Eastern Pacific Ocean Conference, General Oceanography Poster Session. ***Poster: Investigating the Impact of Climate Variability and Change on the California Current System Using a Pacific Pacemaker Experiment.*** Mt. Hood, OR, Sept. 2024. \
+[<a href="https://jackiekiz.github.io/files/pacemaker_poster.pdf" target="_blank">Poster</a>]
+
+
+NOAA Office of Education Science and Education Symposium, Resilient Coastal Communities and Economies Oral Session I. ***Talk: Investigating the Impact of Climate Variability and Change on the California Current System.*** Silver Spring, MD, Aug. 2024. \
+[<a href="https://www.noaa.gov/sites/default/files/2024-07/2024%20Symposium%20Booklet%20Draftsm-file.pdf#page=114.09" target="_blank">Abstract</a>]
+[<a href="https://jackiekiz.github.io/files/pm_agu_slides.pdf" target="_blank">Slides</a>]
+
+
+American Meteorological Society Annual Meeting, Student Poster Session. ***Poster: Evaluating Horizontal and Vertical Fluxes in the Hubbard Brook Experimental Forest.*** Baltimore, MD, Jan. 2024. \
+[<a href="https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Paper/433209" target="_blank">Abstract</a>]
+[<a href="https://jackiekiz.github.io/files/hbef_poster.pdf" target="_blank">Poster</a>]
+
+
+American Geophysical Union Fall Meeting, Boundary Layer Processes and Turbulence I Poster Session. ***Poster: Evaluating Horizontal and Vertical Fluxes in the Hubbard Brook Experimental Forest,*** San Francisco, CA, Dec. 2023. \
+[<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1288498" target="_blank">Abstract</a>]
+[<a href="https://jackiekiz.github.io/files/hbef_poster.pdf" target="_blank">Poster</a>]
+
+
+NASA PA Space Grant Consortium Research Symposium, Oral Session I. ***Lightning Talk: Atmospheric Implications of Ocean Alkalinity Enhancement,*** University Park, PA, Nov. 2022. \
+[<a href="https://docs.google.com/presentation/d/1arAqTotIPIHKs6cPF0f4O8V5IqzTsllwGusm6mlQCiY/edit?usp=sharing" target="_blank">Slides</a>]
+
+
+## Co-authored Presentations:
+
+Herrmann, M., Najjar, R., Spengler, C., Kiszka, J., Chesapeake Community Research Symposium, Carbon Cycling in Chesapeake Bay Special Session. ***Talk: Upper Potomac River Estuary Contributes Disproportionately to the Carbon Dioxide Outgassing of the Chesapeake Bay,*** Annapolis, MD, June 2024. \
+[<a href="https://ccmp2024.chesapeake.org/wp-content/uploads/2024/04/Session-19-Abstracts.pdf#page=4.40" target="_blank">Abstract</a>]
+
+
+Shih, A., Kiszka, J., Kelsey, E., American Meteorological Society Annual Meeting, Student Poster Session. ***Poster: Cross-Canopy Coupling In A New England Forested Mountain Valley,*** Baltimore, MD, Jan. 2024. \
+[<a href="https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Paper/427908" target="_blank">Abstract</a>]
+
+
+Najjar, R., Herrmann, H., Spengler, C., Kiszka, J., American Geophysical Union Fall Meeting, Biophysical Processes in Shallow Coastal Seas and Estuaries I Oral Session. ***Talk: A tidal tributary contributes disproportionately to the carbon dioxide outgassing of a large, coastal plain estuary,*** San Francisco, CA, Dec. 2023. \
+[<a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1438197" target="_blank">Abstract</a>]
+
