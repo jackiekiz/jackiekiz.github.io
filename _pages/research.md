@@ -6,37 +6,12 @@ author_profile: true
 ---
 
 
-------------------
+I am a first-year PhD Student in Meteorology and Physical Oceanography at the University of Miami Rosenstiel School of Marine, Atmospheric, and Earth Science. I am advised by Dr. Amy Clement and my graduate research focuses on the evolving role of the ocean and atmosphere on global climate variability in climate models. 
 
-Ocean Sciences Meeting, *Talk: Explainable Machine Learning for Inferring Subsurface Ocean Dynamics*, Feb 2024.\
-[<a href="https://docs.google.com/presentation/d/1arAqTotIPIHKs6cPF0f4O8V5IqzTsllwGusm6mlQCiY/edit?usp=sharing" target="_blank">Slides</a>]
+I grew up in a tiny town in northern Maine where extreme winters became my norm, then moved to central Pennsylvania and was shocked to get days off of school for an inch or two of snow. At a young age, I became interested in weather and climate and how people interact with them. Though I've shifted away from my original my goal of going into broadcast, I did follow through on the plan I made in fourth grade to become a meteorologist.
 
-NeurIPS Workshop: Tackling Climate Change with Machine Learning, *Poster: Southern Ocean Dynamics Under Climate Change: New Knowledge Through Physics-Guided Machine Learning*, Dec 2023.\
-[<a href="https://slideslive.com/39012870" target="_blank">Video Presentation</a>]
-[<a href="https://docs.google.com/presentation/d/18W8mLUI2haLUbjrhHS6YpIcjVCiy3fG6XBQQR3VHBtU/edit?usp=sharing" target="_blank">Slides</a>]
-[<a href="https://yikwill.github.io/files/NeurIPSPoster2023.pdf" target="_blank">Poster</a>]
+I graduated from the Pennsylvania State University in Spring 2025, where I received a B.S. with Honors in Meteorology and Atmospheric Science, along with minors in Marine Science and Geography, and an undergraduate certificate in Geographic Information Science (GIS). I also spent a semester abroad at the University of Southampton and the National Oceanographic Centre (NOCS) studying physical oceanography in England.
 
-American Geophysical Union Fall Meeting, *Talk: Enforcing Equity in Neural Climate Emulators*, Dec 2023.\
-[<a href="https://docs.google.com/presentation/d/1YrmY4vk6IR62j88iBUr1nKIg8Hchl1lqhpxp91ZWCoU/edit?usp=sharing" target="_blank">Slides</a>]
+I had a variety of research experiences as an undergraduate, including Chesapeake Bay biogeochemistry and carbon capture implementation in the Penn State Meteorology Department, an NSF REU focusing on the carbon and energy budgets of a forest using eddy covariance, and an internship with the NOAA Physical Sciences Laboratory through the NOAA Ernest F. Hollings Program where I studied the impact of ENSO on the California Current System.
 
-IEEE International Conference on Data Science and Advanced Analytics, *Talk: Finite-Sample Bounds for Two-Distribution Hypothesis Tests*, Oct 2023.\
-[<a href="https://docs.google.com/presentation/d/1tpcsBX4qFFiaeTmvqjixyzzUMP_Yusd8vs0F6P2R-As/edit?usp=sharing" target="_blank">Slides</a>]
-
-Harvey Mudd College Student Symposium, *Poster: Explainable Machine Learning for Inferring Subsurface Ocean Dynamics*, Sept 2023.\
-[<a href="https://yikwill.github.io/files/HMCPoster2023.pdf" target="_blank">Poster</a>]
-
-NOAA Science and Education Symposium, *Talk: Explainable Machine Learning for Inferring Subsurface Ocean Dynamics*, Aug 2023.\
-[<a href="https://docs.google.com/presentation/d/1CweP1p5k5qhqN9HD22e50jukBKnIHnPxD__ICIGbQ3o/edit?usp=sharing" target="_blank">Slides</a>]
-
-NeurIPS Workshop: Tackling Climate Change with Machine Learning, *Poster: Exploring Randomly Wired Neural Networks for Climate Model Emulation*, Dec 2022.\
-[<a href="https://slideslive.com/38994024" target="_blank">Video Presentation</a>]
-[<a href="https://drive.google.com/file/d/1tagk9S2-F93JJLe4S5uLoizCWWATmQfe/view?usp=drive_link" target="_blank">Slides</a>]
-[<a href="https://drive.google.com/file/d/10kA6r9eXph36SjSOG8Q_oPfoDPDkD7YT/view?usp=drive_link" target="_blank">Poster</a>]
-
-Harvey Mudd College Student Symposium, *Poster: Exploring Randomly Wired Neural Networks for Climate Model Emulation*, Sept 2022.\
-[<a href="https://drive.google.com/file/d/10kA6r9eXph36SjSOG8Q_oPfoDPDkD7YT/view?usp=drive_link" target="_blank">Poster</a>]
-
-AAAI/ACM Conference on Artificial Intelligence, Ethics, and Society, *Talk and Poster: Identifying Bias in Data Using Two-Distribution Hypothesis Tests*, Aug 2022.\
-[<a href="https://youtu.be/9ESyVlKJ6BM" target="_blank">Video Presentation</a>]
-[<a href="https://drive.google.com/file/d/1617yuc23C1LMytDeexKtYcQIQLqfgK0P/view?usp=sharing" target="_blank">Slides</a>]
-[<a href="https://www.cs.hmc.edu/~montanez/posters/poster-yik-2022-IBIDUTDHT.pdf" target="_blank">Poster</a>]
+In my free time, I can be found hiking, painting, traveling, reading, and enjoying live music.
