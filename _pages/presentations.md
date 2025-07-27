@@ -24,7 +24,7 @@ Eastern Pacific Ocean Conference, General Oceanography Poster Session. ***Poster
 
 NOAA Office of Education Science and Education Symposium, Resilient Coastal Communities and Economies Oral Session I. ***Talk: Investigating the Impact of Climate Variability and Change on the California Current System.*** Silver Spring, MD, Aug. 2024. \
 [<a href="https://www.noaa.gov/sites/default/files/2024-07/2024%20Symposium%20Booklet%20Draftsm-file.pdf#page=114.09" target="_blank">Abstract</a>]
-[<a href="https://jackiekiz.github.io/files/pm_agu_slides.pdf" target="_blank">Slides</a>]
+[<a href="https://jackiekiz.github.io/files/pm_symposium_slides.pdf" target="_blank">Slides</a>]
 
 
 American Meteorological Society Annual Meeting, Student Poster Session. ***Poster: Evaluating Horizontal and Vertical Fluxes in the Hubbard Brook Experimental Forest.*** Baltimore, MD, Jan. 2024. \
@@ -38,7 +38,7 @@ American Geophysical Union Fall Meeting, Boundary Layer Processes and Turbulence
 
 
 NASA PA Space Grant Consortium Research Symposium, Oral Session I. ***Lightning Talk: Atmospheric Implications of Ocean Alkalinity Enhancement,*** University Park, PA, Nov. 2022. \
-[<a href="https://docs.google.com/presentation/d/1arAqTotIPIHKs6cPF0f4O8V5IqzTsllwGusm6mlQCiY/edit?usp=sharing" target="_blank">Slides</a>]
+[<a href="https://jackiekiz.github.io/files/oae_slides.pdf" target="_blank">Slides</a>]
 
 
 ## Co-authored Presentations:
