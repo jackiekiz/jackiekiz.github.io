@@ -5,10 +5,16 @@ author_profile: true
 
 ---
 
-Here are some photos of how I like to spend my free time!
+Here are some photos showing some of the ways that I like to spend my free time:
 
-![Photo from a hike in Rocky Mountain National Park.](https://jackiekiz.github.io/files/images/website_photos/IMG_8117.jpg)
+<img src="https://jackiekiz.github.io/images/website_photos/IMG_8117.jpg" width="375" />   <img src="https://jackiekiz.github.io/images/website_photos/IMG_1340.jpg" width="375" />
 
+<img src="https://jackiekiz.github.io/images/website_photos/IMG_9224.jpg" width="375" />  <img src="https://jackiekiz.github.io/images/website_photos/IMG_8964.jpg" width="375" />
 
+<img src="https://jackiekiz.github.io/images/website_photos/fiesta_pic.png" width="375" />  <img src="https://jackiekiz.github.io/images/website_photos/IMG_9847.jpg" width="375" />
+
+<img src="https://jackiekiz.github.io/images/website_photos/IMG_5206.jpg" width="375" />  <img src="https://jackiekiz.github.io/images/website_photos/IMG_1824.jpg" width="375" />
+
+<img src="https://jackiekiz.github.io/images/website_photos/IMG_1604.jpg" width="375" />  <img src="https://jackiekiz.github.io/images/website_photos/43dbc2cd-8ee0-47ed-aba7-76d2efb77226.jpg" width="375" />
 
 
