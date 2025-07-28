@@ -5,7 +5,9 @@ author_profile: true
 
 ---
 
-In my free time, I can be found hiking, painting, traveling, reading, and enjoying live music.
+Here are some photos of how I like to spend my free time!
+
+![Photo from a hike in Rocky Mountain National Park.](https://jackiekiz.github.io/files/images/website_photos/IMG_8117.jpg)
 
 
 
