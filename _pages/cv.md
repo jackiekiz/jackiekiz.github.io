@@ -49,13 +49,6 @@ Awards
 * NOAA Ernest F. Hollings Undergraduate Scholarship Program - 2023
 
   
-Service and Leadership
-======
-* LA 197 (Foundations of Scholar Success) Course Instructor: Fall 2023 - Spring 2025  
-* Schreyer Honors Orientation Program (SHO Time) Peer Leader and Mentor: 2022 – 2025
-* Penn State Branch of the American Meteorological Society (PSUBAMS): 2021 – 2025
-
-
 Professional Associations
 ======
 * American Meteorological Society (AMS)
