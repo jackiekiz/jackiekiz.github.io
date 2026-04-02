@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-Here are some photos of some of the ways that I like to spend my free time!
+Some photos of some of the ways I like to spend my free time!
 
 <img src="https://jackiekiz.github.io/images/website_photos/IMG_8117.jpg" width="380" /><img src="https://jackiekiz.github.io/images/website_photos/fiesta_pic2.png" width="380" />
 <img src="https://jackiekiz.github.io/images/website_photos/IMG_9224.jpg" width="380" /><img src="https://jackiekiz.github.io/images/website_photos/IMG_9847.png" width="380" />
