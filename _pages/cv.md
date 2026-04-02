@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<a href="https://jackiekiz.github.io/files/jkiz_cv_725.pdf" target="_blank"> Current CV </a>
+<a href="https://jackiekiz.github.io/files/cv_spr_26.pdf" target="_blank"> Current CV </a>
 ======
 
 
