@@ -40,7 +40,7 @@ Professional Experience
 * **Spring 2022 - Spring 2023: Undergraduate Research Intern**
   * Penn State Land-Atmosphere Interaction Laboratory, NASA PA Space Grant Consortium WISER Program
   * Project: Atmospheric implications of ocean alkalinity enhancement carbon capture in the Chesapeake Bay using eddy covariance & atmospheric budgeting
-  * Advisors: Dr. Kenneth Davis
+  * Advisor: Dr. Kenneth Davis
 
 
 Awards
